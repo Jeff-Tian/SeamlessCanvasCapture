@@ -9,7 +9,7 @@ http://zizhujy.com/GraphWorld
 
 Screenshot:
 ===========
-![Screenshot for Seamless Canvas Capture JS Plugin](./SeamlessCanvasCapture_en-US.png "Screenshot for Seamless Canvas Capture JS Plugin")
+![Screenshot for Seamless Canvas Capture JS Plugin](./Screenshots/SeamlessCanvasCapture_en-US.png "Screenshot for Seamless Canvas Capture JS Plugin")
 
 Usage:
 =======
