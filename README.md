@@ -14,7 +14,7 @@ Screenshot:
 Usage:
 =======
 Inside the area of your html page, add the following lines:
-```javascript
+```html
 <script type="text/javascript" src="http://zizhujy.com/Scripts/base64.js"></script>
 <script type="text/javascript" src="http://zizhujy.com/Scripts/drawing/canvas2image.js"></script>
 <script type="text/javascript" src="http://zizhujy.com/Scripts/jquery.js"></script>
